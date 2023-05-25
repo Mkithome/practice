@@ -6,4 +6,5 @@ print(type,(name_jina))
 print("Hello World")
 my_students=["Bilal" , "Bena"]
 print(my_students)
+
       
